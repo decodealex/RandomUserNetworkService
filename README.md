@@ -5,6 +5,7 @@ This is the NetworkService for the RandomUserViper project in its own Swift Pack
 ## Build tools & versions used
 - Xcode 14.1
 - swift-tools-version 5.7, the latest for Swift Package Manager as of writing.
+- GitHub Actions for CI/CD
 
 ## Steps to run the app
 The only thing you can really do here is run the tests.  
